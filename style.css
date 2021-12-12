@@ -174,16 +174,6 @@ h2{
     margin-right: 30px;
 }
 
-/* Affiche lorque le curseur survole */
-.affiche:hover{
-    /* mise en page */
-    width: 96%%;
-    margin-left: 10px;
-    z-index: 1000;
-    float: none;
-}
-
-
 /* INFOS */
 
 .info{
